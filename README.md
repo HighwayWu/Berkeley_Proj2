@@ -3,11 +3,10 @@
 A tiny stupid version-control system driver by class in Berkeley 2017 summer.
 
 Usage:
+
     init:       java gitlet.Main init
-    add:        java gitlet.Main add file name
-    
-    commit:     java gitlet.Main commit [message]
-    
+    add:        java gitlet.Main add [file name]    
+    commit:     java gitlet.Main commit [message]    
     rm:         java gitlet.Main rm [file name]
     log:        java gitlet.Main log
     find:       java gitlet.Main find [commit message]
