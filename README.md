@@ -1,6 +1,6 @@
 # Berkeley_Proj2
 
-A tiny stupid version-control system driver by class in Berkeley 2017 summer.
+A tiny stupid version-control system driver by course, "Data Structures & Programming Methodology", in Berkeley 2017 summer.
 
 Usage:
 
@@ -18,3 +18,6 @@ Usage:
     rm-branch:  java gitlet.Main rm-branch [branch name]
     reset:      java gitlet.Main reset [commit id]
     merge:      java gitlet.Main merge [branch name]
+
+Reference:
+https://cs61bl.org/su17/materials/proj/proj2/proj2.html
